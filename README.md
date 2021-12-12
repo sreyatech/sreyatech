@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on ... techSy
 - 🌱 I’m currently learning ... flutter
 - 👯 I’m looking to collaborate on ... flutter api project
-- 🤔 I’m looking for help with ... android
+- 🤔 I’m looking for help with ... aws
 - 💬 Ask me about ... anything
 - 📫 How to reach me: ... gmail (sreyatech@gmail.com)
 - 😄 Pronouns: ... she/her
